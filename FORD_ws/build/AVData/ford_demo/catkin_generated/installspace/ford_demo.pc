@@ -1,0 +1,8 @@
+prefix=/home/joaojorge/FORD_ws/install
+
+Name: ford_demo
+Description: Description of ford_demo
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

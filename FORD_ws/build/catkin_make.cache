@@ -1,0 +1,2 @@
+AVData/ford_demo:AVData/fusion_description:AVData/map_loader
+-DCATKIN_DEVEL_PREFIX=/home/joaojorge/FORD_ws/devel -DCMAKE_INSTALL_PREFIX=/home/joaojorge/FORD_ws/install -G Unix Makefiles

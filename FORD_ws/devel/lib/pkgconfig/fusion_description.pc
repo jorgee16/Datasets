@@ -1,0 +1,8 @@
+prefix=/home/joaojorge/FORD_ws/devel
+
+Name: fusion_description
+Description: Description of fusion_description
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
