@@ -1,0 +1,2 @@
+ethzasl_msf/ethzasl_msf:ethzasl_msf/msf_core:ethzasl_msf/msf_distort:ethzasl_msf/msf_timing:ethzasl_msf/msf_updates:ethzasl_msf/sensor_fusion_comm:fast_gicp:hdl_graph_slam:lidar2rosbag_KITTI:lidar_slam_evaluator/LIO-SAM:lidar_slam_evaluator/PathRecorder:ndt_omp
+-DCATKIN_DEVEL_PREFIX=/home/joaojorge/SLAM_ws/devel -DCMAKE_INSTALL_PREFIX=/home/joaojorge/SLAM_ws/install -G Unix Makefiles
